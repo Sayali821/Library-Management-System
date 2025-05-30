@@ -1,13 +1,19 @@
 # 📚 Library Management System – SQL Project
 
-![BannerLMS](https://github.com/Sayali821/Library-Management-System/blob/727575ea15303d99509144f557e1d48bccb08425/Images/BannerLMS.jpg)
-
+![BannerLMS](https://github.com/Sayali821/Library-Management-System/blob/676f7401cf3077dc17e00eba45667fa5890aa6a5/Images/BannerLMS.jpeg)
 This project is a relational database design and implementation of a **Library Management System** using SQL. It aims to simulate the management of books, members, employees, branches, and transactions such as issuing and returning books.
 
 ## 📂 Project Structure
 
 The project contains a single SQL script file:
 - `Library Management System.sql`: Includes SQL statements to create tables, insert sample data, and perform various operations.
+
+## 🖼️ Database Schema
+
+Below is the schema diagram representing the relationships between tables in the system:
+
+![Database Schema](https://via.placeholder.com/1000x600.png?text=Library+Schema+Diagram)
+
 
 ## 🛠️ Features Implemented
 
@@ -68,10 +74,21 @@ VALUES
 
 ![Book of specific category](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Book%20of%20specific%20category.png)
 
-### Task 8: Find Total Rental Income by Category:
+### Task 8: Find Total Rental Income by Category
 
 ![Income by category](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Income%20by%20category.png)
 
+### Task 10 List Employees with Their Branch Manager's Name and their branch details
+
+![Branch details](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Branch%20details.png)
+
+### Task 11. Create a Table of Books with Rental Price Above a Certain Threshold 7USD
+
+![New table above 7usd](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/New%20table%20above%207usd.png)
+
+### Task 12: Retrieve the List of Books Not Yet Returned
+
+![Books not returned](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Books%20not%20returned.png)
 
 ## 🧰 Technologies Used
 
