@@ -1,6 +1,6 @@
 # 📚 Library Management System – SQL Project
 
-![BannerLMS]()
+![BannerLMS](https://github.com/Sayali821/Library-Management-System/blob/727575ea15303d99509144f557e1d48bccb08425/Images/BannerLMS.jpg)
 
 This project is a relational database design and implementation of a **Library Management System** using SQL. It aims to simulate the management of books, members, employees, branches, and transactions such as issuing and returning books.
 
