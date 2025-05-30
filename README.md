@@ -40,3 +40,4 @@ The project contains a single SQL script file:
 VALUES
 ('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.');
 
+![Insert new record](https://github.com/Sayali821/Library-Management-System/blob/af7548f4f90089f7fcd5d28bbd0e072a45b24d6f/Images/Insert%20new%20record.png)
