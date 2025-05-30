@@ -41,3 +41,37 @@ VALUES
 ('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.');
 
 ![Insert new record](https://github.com/Sayali821/Library-Management-System/blob/af7548f4f90089f7fcd5d28bbd0e072a45b24d6f/Images/Insert%20new%20record.png)
+
+### Task 2: Update an Existing Member's Address
+
+![Update new record](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Update%20new%20record.png)
+
+### Task 3: Delete a Record from the Issued Status Table. Objective: Delete the record with issued_id = 'IS121' from the issued_status table.
+
+![Deleting record](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Deleting%20record.png)
+
+### Task 4: Retrieve All Books Issued by a Specific Employee -- Objective: Select all books issued by the employee with emp_id = 'E101'.
+
+![Retrive data of user](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Retrive%20data%20of%20user.png)
+
+### Task 5: List Members Who Have Issued More Than One Book -- Objective: Use GROUP BY to find members who have issued more than one book.
+
+![Count more then 1](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Count%20more%20then%201.png)
+
+### Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
+
+![Book issued count](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Book%20issued%20count.png)
+
+### Task 7. Retrieve All Books in a Specific Category
+
+![Book of specific category](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Book%20of%20specific%20category.png)
+
+### Task 8: Find Total Rental Income by Category:
+
+![Income by category](https://github.com/Sayali821/Library-Management-System/blob/34874060768a1a12fcecc070b326fc665473b137/Images/Income%20by%20category.png)
+
+
+## 🧰 Technologies Used
+
+- SQL (compatible with MySQL)
+- SQL DDL, DML, DQL, and JOIN operations
